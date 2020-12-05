@@ -8,7 +8,9 @@ st.title('fugashi demo')
 
 
 """
-Input the text you'd like to analyze.
+Input the text you'd like to analyze. See the [fugashi][] docs for more details.
+
+[fugashi]: https://github.com/polm/fugashi
 """
 
 text = st.text_area("input", "麩菓子は、麩を主材料とした日本の菓子。")
